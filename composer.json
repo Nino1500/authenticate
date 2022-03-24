@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/authenticate",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nino",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "spomky-labs/otphp": "8.0.x-dev",
+    "ext-mysqli": "*"
+  }
+}
